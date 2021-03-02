@@ -4,7 +4,7 @@
   then scripts addded tp pakage.json
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build",
-  "homepage": "https://mgunsd.github.io/Portfolio"
+  "homepage": "https://itpbootcampfe.github.io/react-cra/"
 
 # Getting Started with Create React App
 
