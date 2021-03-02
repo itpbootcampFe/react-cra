@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-cra"]=this["webpackJsonpreact-cra"]||[]).push([[0],{4:function(e,c,r){"use strict";r.r(c);r(1);var t=r(3),n=r.n(t),s=r(0),a=function(){return Object(s.jsx)("div",{children:Object(s.jsx)("h1",{children:" Hi react !"})})};n.a.render(Object(s.jsx)(a,{}),document.querySelector("#root"))}},[[4,1,2]]]);
+//# sourceMappingURL=main.061a404c.chunk.js.map
